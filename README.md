@@ -3,26 +3,25 @@ student management
 tudent Management System
 Description
 
-This is a simple Python Student Management System. The program allows the user to manage student names and their grades for three subjects:
+This is a  Python Student Management System. The program allows the user to monitor student names and their grades for three subjects:
 
 Maths
 English
 Science
 
-The program uses Python dictionaries and lists to store and manage student information.
+The program uses Python dictionaries ,tuples and lists to record and monitor student data.
 
-Features
 
 The system can:
 
-View student results
+Check student results
 Calculate student averages
 Add a new student
 Update student grades
-Remove a student
-View grades for a specific subject
-Search for a student
-Students Included
+Delete a student
+Check grades for a specific subject
+look up for a student
+Students in the data
 
 The program starts with three students:
 
@@ -36,17 +35,16 @@ Requirements
 
 To run this program, you need:
 
-Python 3 installed on your computer
-A code editor such as Visual Studio Code
+Python 3.14 installed on your computer
+A code editor such as Pycharm
 How to Run
 Download or clone the project.
-Open the project folder in Visual Studio Code.
+Open the project folder in Pycharm.
 Open the Python file.
-Open the VS Code terminal.
-Run the following command:
-python student_management.py
+Open the Pycharm terminal.
+python python_project1.py
 
-If your Python file has a different name, replace student_management.py with the name of your file.
+If your Python file has a different name, replace python_project1.py with the name of your file.
 
 How It Works
 
@@ -75,8 +73,9 @@ Science: 75
 Average: 86.66666666666667
 Author
 
-Sean Morris
+Gorata Kealeboga Pilane
 
 Technology Used
 Python 3
-Visual Studio Code
+Pycharm
+Github
